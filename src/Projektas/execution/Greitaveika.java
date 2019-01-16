@@ -9,6 +9,11 @@ import java.util.concurrent.Semaphore;
 import java.util.concurrent.SynchronousQueue;
 import java.lang.InterruptedException;
 
+/*
+ * @author Paulius Ratkevičius
+ * 
+ */
+
 public class Greitaveika
 {
     private static final BlockingQueue resultsLogger = new SynchronousQueue();

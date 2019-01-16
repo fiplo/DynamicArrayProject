@@ -1,16 +1,10 @@
-/*
- * DataTest.java
- * Copyright (C) 2019 fiplo <fiplo@weebtop>
- *
- * Distributed under terms of the MIT license.
- */
-
 package Projektas.execution;
 
 import Projektas.DataTest.*;
 import Projektas.data.*; 
 import java.util.Random;
 
+// @author Paulius Ratkevicius
 
 public class DataTest
 {

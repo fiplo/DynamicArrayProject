@@ -1,5 +1,7 @@
 package Projektas.praktinis;
 
+// @author Paulius Ratkevicius
+
 public class preke
 {
     private double margins = 0.2;
